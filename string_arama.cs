@@ -3,13 +3,7 @@
 **                                                                    BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
 **                                                                          BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
 **                                                                      NESNEYE DAYALI PROGRAMLAMA DERSİ
-**                                                                            2020-2021 BAHAR DÖNEMİ
-**
-**                                                                          ÖDEV NUMARASI..........: 1
-**			                                                                ÖĞRENCİ ADI............: İLAYDA YILMAZ
-**				                                                            ÖĞRENCİ NUMARASI.......: B201210057
-**                                                                          DERSİN ALINDIĞI GRUP...: 1C GRUBU
-**
+**			                                                                      İLAYDA YILMAZ
 ******************************************************************************************************************************************************************************************************/
 using System;
 
